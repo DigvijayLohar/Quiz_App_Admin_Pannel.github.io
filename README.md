@@ -1,1 +1,5 @@
-# Quiz_App_Admin_Pannel.github.io
+# CC-Quiz-App-with-Admin-Panel
+code clause Golden Projects 1: Quiz App with Admin Panel
+username -Digvijay
+password -7277
+
